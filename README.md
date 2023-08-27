@@ -1,4 +1,8 @@
-### 🎓 INHA UNI ICE 20 🎓
+## 🎓 INHA UNI ICE 20 🎓
+- UMC 4th Server👩🏻‍💻
+- 📬 jyjo522i@gmail.com
+
+
 ## 🌱 I’m currently learning ...
 
 <!--
