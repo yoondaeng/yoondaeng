@@ -1,6 +1,5 @@
 ### Hi there 👋
-## 💬 Ask me about
-INHA UNI ICE 20
+## 🌱 I’m currently learning ...
 
 <!--
 **yoondaeng/yoondaeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
