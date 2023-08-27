@@ -1,4 +1,5 @@
 ### Hi there 👋
+### 🎓 INHA UNI ICE 20 🎓
 ## 🌱 I’m currently learning ...
 
 <!--
