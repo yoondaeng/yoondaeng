@@ -1,5 +1,5 @@
 ### Hi there 👋
-💬 Ask me about
+# 💬 Ask me about
 ## INHA UNI ICE 20
 
 <!--
