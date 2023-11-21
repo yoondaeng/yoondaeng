@@ -1,5 +1,8 @@
 ## 🎓 INHA UNI ICE 20 🎓
-```UMC 5th Server👩🏻‍💻```
+```👩🏻‍💻 UMC Server```
+```4th```
+```5th```
+
 ```📬 jyjo522i@gmail.com```
 
 
