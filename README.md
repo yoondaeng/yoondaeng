@@ -1,4 +1,4 @@
-# Yoonji Jeong✨
+# Yoonji Jeong
 ## 🎓 INHA UNI ICE 20 
 ```👩🏻‍💻 UMC Server```
 ```4th```
