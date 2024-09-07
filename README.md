@@ -26,7 +26,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=)](https://solved.ac/yunyun0522)
 -->
 <img src="https://img.shields.io/badge/SpringBoot3-6DB33F?style=flat-square&logo=Springboot3&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> 
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=yoondaeng&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+
