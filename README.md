@@ -8,9 +8,6 @@
 
 ```📬 jyjo522i@gmail.com```
 
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyoondaeng%2Fhit-counter&count_bg=%23000000&title_bg=%23555555&icon=furrynetwork.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
-
-
 ## 🌱 I’m currently learning ...
 
 <!--
@@ -31,4 +28,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/SpringBoot3-6DB33F?style=flat-square&logo=Springboot3&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> 
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=yoondaeng&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyoondaeng%2Fhit-counter&count_bg=%23000000&title_bg=%23555555&icon=furrynetwork.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
+
 
