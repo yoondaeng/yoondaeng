@@ -39,8 +39,6 @@
 -----------
 
 
-  [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=yoondaeng&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-
 
 <div align="center">
    <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=yoondaeng&utm_content=farm">
@@ -56,6 +54,8 @@
     </div>
 
 <!--
+  [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=yoondaeng&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+  
 가장 많이 사용한 언어
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoondaeng&layout=compact)
 **yoondaeng/yoondaeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
