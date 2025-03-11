@@ -45,9 +45,9 @@
 
 ##### Cloud
 <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
-<img src="https://img.shields.io/badge/awsEC2-FF9900?style=for-the-badge&logo=amazonEC2&logoColor=white">
-<img src="https://img.shields.io/badge/awsrds-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white">
-<img src="https://img.shields.io/badge/awsS3-569A31?style=for-the-badge&logo=amazonS3&logoColor=white">
+<img src="https://img.shields.io/badge/aws EC2-FF9900?style=for-the-badge&logo=amazonEC2&logoColor=white">
+<img src="https://img.shields.io/badge/aws rds-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white">
+<img src="https://img.shields.io/badge/aws S3-569A31?style=for-the-badge&logo=amazonS3&logoColor=white">
 
 ##### Front
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
