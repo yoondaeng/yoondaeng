@@ -47,13 +47,8 @@
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
 
 -----------
-<div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📫 Contact</h2> <br> 
-    <div align= "center"> <a href=mailto:jyjo522i@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jyjo522i@gmail.com"> </a>
-          </div>  <br> 
-    <div align= "center">  </div> 
-    </div>
 
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=yoondaeng&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 <div align="center">
    <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=yoondaeng&utm_content=farm">
@@ -70,7 +65,12 @@
     
 
 <!--
-  [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=yoondaeng&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+<div align= "center">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📫 Contact</h2> <br> 
+    <div align= "center"> <a href=mailto:jyjo522i@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jyjo522i@gmail.com"> </a>
+          </div>  <br> 
+    <div align= "center">  </div> 
+    </div>
   
 가장 많이 사용한 언어
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoondaeng&layout=compact)
