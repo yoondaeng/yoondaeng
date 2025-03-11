@@ -14,7 +14,7 @@
 
 <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👩🏻‍💻 About me </h2> <br> 
-    <div align= "center"> <a href=https://shelled-lan-36e.notion.site/Yoonji-Jeong-a492c8454a3240e59e1f6429804f321e?pvs=4> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://shelled-lan-36e.notion.site/Yoonji-Jeong-a492c8454a3240e59e1f6429804f321e?pvs=4"> </a>
+    <div align= "center"> <a href=https://shelled-lan-36e.notion.site/Yoonji-Jeong-a492c8454a3240e59e1f6429804f321e?pvs=4> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://shelled-lan-36e.notion.site/Yoonji-Jeong-a492c8454a3240e59e1f6429804f321e?pvs=4"> </a>
           </div>  <br> 
     <div align= "center">  </div> 
     </div>
