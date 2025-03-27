@@ -48,6 +48,8 @@
   
 -----------
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoondaeng&hide_progress=true)
+
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=yoondaeng&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 <div align="center">
@@ -60,9 +62,6 @@
     </a>  
 </div>
 <br>
-
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyoondaeng%2Fhit-counter&count_bg=%23000000&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
-    </div>
 
 <!--
 
@@ -81,7 +80,7 @@
     </div>
   
 가장 많이 사용한 언어
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoondaeng&layout=compact)
+
 **yoondaeng/yoondaeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
