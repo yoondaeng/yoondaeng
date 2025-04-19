@@ -1,5 +1,5 @@
 <div align="center"> 
-    <h1 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> ✨ Yoonji Jeong </h1>  
+    <h1 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Yoon Ji Jeong </h1>  
     <h3 div style="font-weight: 700; font-size: 30px; text-align: center; color: #c9d1d9;"> 
         I living in 🇰🇷 lived in 🇱🇦 
         <!--
