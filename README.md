@@ -21,7 +21,7 @@ https://shelled-lan-36e.notion.site/Yoonji-Jeong-1820af0010fb8085b81acefa47768b0
     <div align= "center">  </div> 
     </div>
         
-<div align= "center">
+<!-- <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2>
 <div align=center> 
 
@@ -51,7 +51,7 @@ https://shelled-lan-36e.notion.site/Yoonji-Jeong-1820af0010fb8085b81acefa47768b0
   
 -----------
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=yoondaeng&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=yoondaeng&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only) -->
 
 <!--
 
